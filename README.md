@@ -1,4 +1,3 @@
-0x05. AirBnB clone - RESTful API
 0x02. AirBnB clone - MySQL
 
 Resources
